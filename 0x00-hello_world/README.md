@@ -4,3 +4,4 @@
 a script that compiles a C file and creates an executable named cisfun
 Write a C program
 a C program that prints the size of various types on the computer it is compiled and run on
+a script that generates the assembly code (Intel syntax) of a C code and save it in an output file
